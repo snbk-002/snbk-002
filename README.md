@@ -1,16 +1,8 @@
 <h2 align="left">Hi 👋! My name is Sohan and I'm an aspiring Business analyst from Kolkata , India </h2>
 
 
-💻 Passionate about [your interests: coding, data, AI, etc.]  
-🌱 Currently learning: [skills or technologies]  
-🎯 Goal: [your career goal]
-
-## 🚀 Skills
-- Programming: [Python, Java, etc.]
-- Tools: [Git, SQL, Excel, etc.]
-- Other: [Problem-solving, communication]
-
-
+💻 Passionate about bringing business insights from data and interested to work with product team 
+🎯 Goal: Data-driven Product manager 
 
 
 ###
